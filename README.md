@@ -1,4 +1,4 @@
-# 🧠 Iota Analytics Internship Projects (Summer 2023)
+# 🧠 NLP & Generative AI Projects | Iota Analytics Internship (2023)
 
 This repository showcases the major projects completed during my internship at **Iota Analytics**, where I worked as a **AI/ML Intern** with a strong focus on **Natural Language Processing (NLP)** and **Generative AI**. The internship spanned from **November 2023 to January 2023**, and involved both research-driven and application-focused contributions to cutting-edge AI solutions.
 
