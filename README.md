@@ -6,7 +6,7 @@ This repository showcases the major projects completed during my internship at *
 
 ## 📂 Contents
 
-- `Internship_Final_Report.docx` – Complete internship report detailing activities, challenges, solutions, and reflections.
+- `Iota_AnalyticsInternship_Final_Report.docx` – Complete internship report detailing activities, challenges, solutions, and reflections.
 - `Pii_Identifier.docx` – Technical write-up for the PII Recognizer project using Presidio, SpaCy, and Regex-based custom NER models.
 - `RAG_Based_AI.docx` – Report on the Retrieval-Augmented Generation system built using Hugging Face Transformers and Vector Indexing.
 - Sample Python scripts (to be added optionally) – eDiscovery work like OCR, speech-to-text, CSV generation from Excel, etc.
