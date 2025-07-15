@@ -1,6 +1,6 @@
 # 🧠 Iota Analytics Internship Projects (Summer 2023)
 
-This repository showcases the major projects completed during my internship at **Iota Analytics**, where I worked as a **AI/ML Intern** with a strong focus on **Natural Language Processing (NLP)** and **Generative AI**. The internship spanned from **June to August 2023**, and involved both research-driven and application-focused contributions to cutting-edge AI solutions.
+This repository showcases the major projects completed during my internship at **Iota Analytics**, where I worked as a **AI/ML Intern** with a strong focus on **Natural Language Processing (NLP)** and **Generative AI**. The internship spanned from **November 2023 to January 2023**, and involved both research-driven and application-focused contributions to cutting-edge AI solutions.
 
 ---
 
@@ -9,7 +9,7 @@ This repository showcases the major projects completed during my internship at *
 - `Iota_AnalyticsInternship_Final_Report.docx` – Complete internship report detailing activities, challenges, solutions, and reflections.
 - `Pii_Identifier.docx` – Technical write-up for the PII Recognizer project using Presidio, SpaCy, and Regex-based custom NER models.
 - `RAG_Based_AI.docx` – Report on the Retrieval-Augmented Generation system built using Hugging Face Transformers and Vector Indexing.
-- Sample Python scripts (to be added optionally) – eDiscovery work like OCR, speech-to-text, CSV generation from Excel, etc.
+- Sample Python scripts – eDiscovery work like OCR, speech-to-text, CSV generation from Excel, etc.
 
 ---
 
